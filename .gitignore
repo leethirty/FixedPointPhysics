@@ -8,3 +8,4 @@ Assembly-CSharp-firstpass.csproj
 FixedPointPhysics.sln
 .vs/FixedPointPhysics/v16/.suo
 obj/
+*.csproj
